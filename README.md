@@ -35,3 +35,6 @@ our machine after extracting data from the Cloud and processing it using Big Dat
 ### Capstone - Predicting CO2 Flux and Storage in Boreal Forests
 The castone project was completed as a requirement for the Data Science Diploma and aims to use data science modeling tools on the available 
 data to capture the trends of the CO2 exchange (flux) and stocks (storage) for Boreal Forests in Canada. 
+
+Available on github at https://github.com/rtherego/BrainStation-Capstone-Project
+
